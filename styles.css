@@ -20,19 +20,19 @@ html {
 
 
 @font-face {
-    font-family: myfont;
-    src: url("/fonts/nunito-Regular.ttf");
+    font-family: "myfont";
+    src: url("./fonts/nunito-Regular.ttf");
 }
 
 @font-face {
     font-family: myfont;
-    src: url("/fonts/ltsaeada_sb.otf");
+    src: url("./fonts/ltsaeada_sb.otf");
     font-weight: bold;
 }
 
 @font-face {
     font-family: myfont;
-    src: url("/fonts/nunito_lightRegular.ttf");
+    src: url("./fonts/nunito_lightRegular.ttf");
     font-weight: 300;
 }
 
@@ -155,7 +155,7 @@ body {
     margin: 0;
     padding: 0;
     width: 100%;
-    font-family: myfont;
+    font-family: "myfont";
     /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
 }
 
