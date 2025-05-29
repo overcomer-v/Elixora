@@ -21,18 +21,18 @@ html {
 
 @font-face {
     font-family: myfont;
-    src: url("../fonts/nunito-Regular.ttf");
+    src: url("./fonts/nunito-Regular.ttf");
 }
 
 @font-face {
     font-family: myfont;
-    src: url("../fonts/ltsaeada_sb.otf");
+    src: url("./fonts/ltsaeada_sb.otf");
     font-weight: bold;
 }
 
 @font-face {
     font-family: myfont;
-    src: url("../fonts/nunito_lightRegular.ttf");
+    src: url("./fonts/nunito_lightRegular.ttf");
     font-weight: 300;
 }
 
